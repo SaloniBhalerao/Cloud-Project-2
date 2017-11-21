@@ -1,0 +1,56 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(new.jpg);
+	height: 90vh;
+	background-size: 100% 100%;
+	background-position: 50% 50%;
+}
+.login{
+	width: 360px;
+	padding: 70px;
+	margin: auto;
+}
+.second{
+	position: initial;
+	z-index: 0;
+	background: lightgray;
+	max-width: 100px auto 100px;
+	padding: 55px;
+	text-align: center;
+}
+.second input{
+	font-family: "Roboto", sans-serif;
+	outline: 1;
+	background: white;
+	width: 100%;
+	border: 10px;
+	margin: 0 0 15px;
+	padding: 20px;
+	box-sizing: border-box;
+	font-size: 15px;
+}
+.second button{
+	font-family: "Roboto", sans-serif;
+	text-transform: uppercase;
+	background: DodgerBlue;
+	width: 100%;
+	padding: 16px;
+	color: white;
+	font-size: 14px;
+	cursor: pointer;
+}
+.second button:hover,.second button:active{
+	background: #3cb371;
+}
+.second .message{
+	margin: 14px 0 0;
+	color: blue;
+	font-size: 12px;
+}
+.second .message a {
+	color: #4CAF50;
+	text-decoration: none;
+	background: lightblue;
+}
+.second .registration{
+	display: none;
+}
