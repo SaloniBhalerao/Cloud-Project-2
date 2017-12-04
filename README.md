@@ -36,10 +36,15 @@ PROFILE – Once the user clicks on profile he can change his current password.
 
 LOGOUT- The user will be logged out.
 •	Create event
+
 •	View event
+
 •	Update a new event.
+
 •	View the event along with the details of the location
+
 •	Social Organizers can pick up food.
+
 •	Upload details of available food.
 
 
