@@ -32,8 +32,6 @@ DOWNLOAD- The user can download the file which is in S3 bucket.
 
 FORGOT PASSWORD- The user gets a new password to his mail.
 
-PROFILE – Once the user clicks on profile he can change his current password.
-
 LOGOUT- The user will be logged out.
 •	Create event
 
@@ -49,6 +47,32 @@ LOGOUT- The user will be logged out.
 
 
 There is a table which displays the details of the events posted by event organizers.
+
+Event Organizers
+
+•	Individuals or and groups who host parties or prepare food.
+
+•	Registers in our portal.
+
+•	Publish the event details.
+
+•	Can upload images or files to provide information about the food
+     e.g. How many people can it serve.
+     
+        List of food items
+        
+Social Organizations
+
+•	NGO , FOOD BANKS or any other communities which provide food and feed the hungry.
+
+•	Initially they have to register in our web portal.
+
+•	Can see the list of events where the food is available.
+
+•	Mark events if they need food.
+
+•	Responsible for picking up food from event organizers.
+
 
 
 
