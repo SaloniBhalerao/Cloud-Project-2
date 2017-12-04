@@ -33,6 +33,7 @@ DOWNLOAD- The user can download the file which is in S3 bucket.
 FORGOT PASSWORD- The user gets a new password to his mail.
 
 LOGOUT- The user will be logged out.
+
 •	Create event
 
 •	View event
