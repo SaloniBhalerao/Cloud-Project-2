@@ -48,7 +48,7 @@ LOGOUT- The user will be logged out.
 •	Upload details of available food.
 
 
-There is a table which displays the details of the uploaded file
+There is a table which displays the details of the events posted by event organizers.
 
 
 
