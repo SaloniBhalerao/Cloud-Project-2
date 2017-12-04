@@ -123,4 +123,10 @@ So basically you need to coonet your SSH to Putty and save all your files in a s
 
 ![Screenshot](/screenshots/1.PNG)
 
-![Screenshot](https://https://github.com/SaloniBhalerao/Cloud-Project-2/blob/master/screenshots/1.PNG)
+![Screenshot](/screenshots/2.PNG)
+
+![Screenshot](/screenshots/3(E).PNG)
+
+![Screenshot](/screenshots/4.PNG)
+
+![Screenshot](/screenshots/6.PNG)
