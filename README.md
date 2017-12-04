@@ -120,3 +120,5 @@ Install an SSH client (e.g. Putty)
 How to run project locally
 
 So basically you need to coonet your SSH to Putty and save all your files in a single directory. With your ec2 instance connected to your Putty you have to bring your php page locally. After this you need to register a domain and route your traffic from ec2 to registered domain.
+
+https://github.com/SaloniBhalerao/Cloud-Project-2/blob/master/screenshots/1.PNG
