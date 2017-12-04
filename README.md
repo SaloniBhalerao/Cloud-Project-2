@@ -12,7 +12,8 @@ Tarun Shetty           Linkedin Link - https://www.linkedin.com/in/tarun-shetty-
 
 Saloni Sharad Bhalerao Linkedin Link - https://www.linkedin.com/in/saloni-bhalerao-52984513a
 
-Yamini Muralidharen   Linkedin Link    https://www.linkedin.com/in/yaminimuralidharen/
+Yamini Muralidharen   Linkedin Link    https://www.linkedin.com/in/yaminimuralidharen/ 
+
 PROJECT INTRODUCTION
 
 People waste an unfathomable amount of food! According to the Guardian report released roughly fifty percent of all produce in the United States is thrown away, for example around 60 million tons worth of produce annually, an amount constituting "one-third of all foodstuff". Wasted food is also the biggest occupant in American landfills, the Environmental Protection agency has found when it comes to catering food for attendees at events, the food is always ordered in excess. On the other hand, there are many people in the society, who are in need for food and this excess food from the above events can fulfil their needs. Controlling food wastage is one of the concerning issues for any nation therefore, we have taken a pledge to march towards reduction of food wastage and providing it to the needy. 
