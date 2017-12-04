@@ -8,7 +8,8 @@ ISA- DIVYANKITHA URS
 
 STUDENT NAME- Tarun Shetty
 
-Linked in - https://www.linkedin.com/in/tarun-shetty-273952140/ Project instutions and features
+Linked in - https://www.linkedin.com/in/tarun-shetty-273952140/ 
+Project introduction
 
 People waste an unfathomable amount of food! According to the Guardian report released roughly fifty percent of all produce in the United States is thrown away, for example around 60 million tons worth of produce annually, an amount constituting "one-third of all foodstuff". Wasted food is also the biggest occupant in American landfills, the Environmental Protection agency has found when it comes to catering food for attendees at events, the food is always ordered in excess. On the other hand, there are many people in the society, who are in need for food and this excess food from the above events can fulfil their needs. Controlling food wastage is one of the concerning issues for any nation therefore, we have taken a pledge to march towards reduction of food wastage and providing it to the needy. 
 The web application we have planned will let event organizers to notify volunteers belonging to social organizations that can come and pick up the excess food which in-turn will help the wellbeing of the society. This application will be a 3-tier scalable web based application which will leverage the Amazon Web Services.
