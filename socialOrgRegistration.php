@@ -58,7 +58,7 @@ $errMessage='';
         //Visit  https://console.aws.amazon.com/cognito/signin/ to get your own UserPoolId and ClientId
         try {
             $result = $client->signUp([
-                'ClientId' => '4k7br61ru7pmh0esqabqi8b9u4',
+                'ClientId' => '4k7br61ru7bqi8b9u4',
                 'Username' => $_POST['email'],
                 'Password' => $_POST['user_password'],
 
